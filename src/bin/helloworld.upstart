@@ -1,0 +1,56 @@
+#!/bin/sh
+
+
+start() {
+currendir=/opt/local/helloworld/bin/
+webapps_dir1=/opt/local/helloworld/server/apache-tomcat-9.0.0.M15/webapps/ROOT/*
+webapps_dir2=/opt/local/helloworld/server/apache-tomcat-9.0.0.M15/webapps/ROOT/
+# Remove existing assets (if any)
+rm $webapps_dir1 -rf 
+rm -rf $webapps_dir1 
+# Copy WAR file into place
+
+
+unzip -qq $currendir/helloworld-1.0-SNAPSHOT.war -d $webapps_dir2
+
+# set listening port
+var=$( cat /opt/local/helloworld/conf/helloworld.conf )
+mkdir /opt/local/helloworld/server/apache-tomcat-9.0.0.M15/logs
+
+sed -i 's/Connector port=".*protocol="HTTP\/1.1"/Connector port="'$var'" protocol="HTTP\/1.1"/' /opt/local/helloworld/server/apache-tomcat-9.0.0.M15/conf/server.xml
+# Restart tomcat
+ 
+/opt/local/helloworld/server/apache-tomcat-9.0.0.M15/bin/catalina.sh start
+
+}
+
+stop() {
+#stop tomcat
+/opt/local/helloworld/server/apache-tomcat-9.0.0.M15/bin/catalina.sh stop
+
+
+
+
+}
+
+
+case "$1" in 
+    start)
+       start
+       ;;
+    stop)
+       stop
+       ;;
+    restart)
+       stop
+       start
+       ;;
+    status)
+       # code to check status of app comes here 
+       # example: status program_name
+       ;;
+    *)
+       echo "Usage: $0 {start|stop|status|restart}"
+esac
+
+exit 0 

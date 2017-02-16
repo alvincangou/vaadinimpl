@@ -1,0 +1,37 @@
+#!/bin/sh
+
+
+start() {
+
+webapps_dir=/home/cangou/Téléchargements/apache-tomcat-9.0.0.M13
+# Remove existing assets (if any)
+rm -rf $webapps_dir/ROO# Copy WAR file into place
+cp helloworld-1.0-SNAPSHOT.war $webapps_dir
+# Restart tomcat
+/home/cangou/Téléchargements/apache-tomcat-9.0.0.M13/bin/catalina.sh run
+}
+
+stop() {
+}
+
+
+case "$1" in 
+    start)
+       start
+       ;;
+    stop)
+       stop
+       ;;
+    restart)
+       stop
+       start
+       ;;
+    status)
+       # code to check status of app comes here 
+       # example: status program_name
+       ;;
+    *)
+       echo "Usage: $0 {start|stop|status|restart}"
+esac
+
+exit 0 
