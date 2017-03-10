@@ -8,11 +8,11 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-  <title>helloworld</title>
-</head>
-<body>
-helloworld
-<%--<form method="get" action="helloworld.jsp">--%>
+    <title>helloworld</title>
+  </head>
+  <body>
+  helloworld
+  <%--<form method="get" action="helloworld.jsp">--%>
 
 <vaadin-form-layout width="535px" margin-left="true" margin-top="false" margin-bottom="false" method="get" action="hello">
   <vaadin-label for="nom">Quel est votre nom ?</vaadin-label>

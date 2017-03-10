@@ -17,7 +17,7 @@ import java.util.Iterator;
 /**
  * Created by acangou on 16/11/16.
  */
-@WebServlet(name = "HelloWorldServlet",urlPatterns = {"/hello"})
+//@WebServlet(name = "HelloWorldServlet",urlPatterns = {"/hello"})
 public class HelloWorldServlet extends HttpServlet {
 
     HelloService helloService = new HelloServiceImpl();

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin.addon:vaadin-charts:3.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin.addon/vaadin-charts/3.2.0/a0cf671cf27f27935544046640dbbfd0b339ce9e/vaadin-charts-3.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin.addon/vaadin-charts/3.2.0/1fa83b60ffc64fcee15a44e678ec73485376bfcb/vaadin-charts-3.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

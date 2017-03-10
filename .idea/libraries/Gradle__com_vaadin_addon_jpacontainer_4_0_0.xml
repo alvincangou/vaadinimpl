@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vaadin.addon:jpacontainer:4.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin.addon/jpacontainer/4.0.0/fb71b4b1be04f52c822bbbd230aca9f076b55969/jpacontainer-4.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin.addon/jpacontainer/4.0.0/ec351af8598a5c805d1a7f61357d5149e065179a/jpacontainer-4.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -14,7 +14,7 @@
 Today's date: <%= (new java.util.Date()).toLocaleString()%>
 <p>
 
-    Hello <%= (request.getParameter("nom"))%></p>
+    Heltlo <%= (request.getParameter("nom"))%></p>
 
 </body>
 </html>

@@ -56,6 +56,7 @@ public class HelloDaoImpl implements HelloDao {
     Transaction tx = null;
     Integer UserID = null;
       try{
+
         tx = session.beginTransaction();
         //UserEntity employee = new UserEntity(login,sqlDate);
           UserEntity employee = new UserEntity();
@@ -69,6 +70,5 @@ public class HelloDaoImpl implements HelloDao {
     }finally {
         session.close();
     }
-
   }
 }

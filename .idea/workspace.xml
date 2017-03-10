@@ -2,12 +2,153 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="Gradle : com.test : helloworld-1.0-SNAPSHOT.war" />
       <artifact name="Gradle : com.test : helloworld-1.0-SNAPSHOT.war (exploded)" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e95316bd-0ee2-4791-9b91-510965d09d64" name="Default" comment="" />
+    <list default="true" id="e95316bd-0ee2-4791-9b91-510965d09d64" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__ant_ant_1_6_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__ant_ant_launcher_1_6_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_ibm_icu_icu4j_50_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_addon_jpacontainer_4_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_addon_vaadin_charts_3_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_addon_vaadin_charts_model_3_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_external_google_guava_16_0_1_vaadin1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_external_streamhtmlparser_streamhtmlparser_jsilver_0_0_10_vaadin1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_client_7_6_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_client_compiled_7_6_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_client_compiler_7_6_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_client_compiler_deps_1_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_compatibility_server_8_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_compatibility_shared_8_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_server_7_6_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_shared_7_6_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_themes_7_6_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_yahoo_platform_yui_yuicompressor_2_4_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_collections_commons_collections_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_io_commons_io_1_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sourceforge_cssparser_cssparser_0_9_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sourceforge_nekohtml_nekohtml_1_9_19.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpmime_4_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_james_apache_mime4j_0_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_annotations_8_1_12_v20130726.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_client_8_1_12_v20130726.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_continuation_8_1_12_v20130726.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_http_8_1_12_v20130726.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_io_8_1_12_v20130726.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_jndi_8_1_12_v20130726.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_plus_8_1_12_v20130726.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_security_8_1_12_v20130726.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_server_8_1_12_v20130726.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_servlet_8_1_12_v20130726.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_servlets_8_1_12_v20130726.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_util_8_1_12_v20130726.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_webapp_8_1_12_v20130726.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_xml_8_1_12_v20130726.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_orbit_javax_activation_1_1_0_v201105071233.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_orbit_javax_annotation_1_1_0_v201108011116.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_orbit_javax_mail_glassfish_1_4_1_v201005082020.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_orbit_javax_servlet_3_0_0_v201112011016.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_orbit_javax_transaction_1_1_1_v201105210645.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_orbit_org_objectweb_asm_3_1_0_v200803061910.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jdesktop_swing_worker_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jsoup_jsoup_1_10_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_vaadin_addons_lazyquerycontainer_vaadin_lazyquerycontainer_7_6_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__rhino_js_1_7R2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__xalan_serializer_2_7_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__xerces_xercesImpl_2_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__xml_apis_xml_apis_1_4_01.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Dao/mapping/UserVisite.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/VaadintestUI.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/userDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistance.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/com/example/WidgetSet.gwt.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/addons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/mytheme.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/styles.scss" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_gwt_gwt_elemental_2_8_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_gwt_gwt_user_2_8_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_jsinterop_jsinterop_annotations_1_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_jsinterop_jsinterop_annotations_sources_1_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_googlecode_gentyref_gentyref_1_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_client_8_0_0_rc1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_client_compiled_8_0_0_rc1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_server_8_0_0_rc1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_shared_8_0_0_rc1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_themes_8_0_0_rc1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_servlet_javax_servlet_api_3_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_validation_validation_api_1_1_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_validation_validation_api_sources_1_1_0_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jsoup_jsoup_1_8_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mockito_mockito_core_1_9_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_objenesis_objenesis_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/lib/gentyref-1.2.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/lib/gwt-elemental-2.8.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/lib/gwt-user-2.8.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/lib/javax.servlet-api-3.1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/lib/jsinterop-annotations-1.0.1-sources.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/lib/jsinterop-annotations-1.0.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/lib/jsoup-1.8.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/lib/mockito-core-1.9.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/lib/objenesis-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/lib/vaadin-client-8.0.0.rc1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/lib/vaadin-server-8.0.0.rc1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/lib/vaadin-shared-8.0.0.rc1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/lib/validation-api-1.1.0.Final-sources.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/lib/validation-api-1.1.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/helloworld-1.0-SNAPSHOT.war" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/CustomerForm.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/CustomerFormDesign.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/CustomerService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/MyUI.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/java/Customer.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/Dao/HelloDao.class" afterPath="$PROJECT_DIR$/build/classes/main/Dao/HelloDao.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/Dao/HelloDaoImpl.class" afterPath="$PROJECT_DIR$/build/classes/main/Dao/HelloDaoImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/Dao/mapping/UserEntity.class" afterPath="$PROJECT_DIR$/build/classes/main/Dao/mapping/UserEntity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/services/HelloService.class" afterPath="$PROJECT_DIR$/build/classes/main/services/HelloService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/services/HelloServiceImpl.class" afterPath="$PROJECT_DIR$/build/classes/main/services/HelloServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/services/HelloWorldServlet.class" afterPath="$PROJECT_DIR$/build/classes/main/services/HelloWorldServlet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/classes/Dao/HelloDao.class" afterPath="$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/classes/Dao/HelloDao.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/classes/Dao/HelloDaoImpl.class" afterPath="$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/classes/Dao/HelloDaoImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/classes/Dao/mapping/UserEntity.class" afterPath="$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/classes/Dao/mapping/UserEntity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/classes/services/HelloService.class" afterPath="$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/classes/services/HelloService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/classes/services/HelloServiceImpl.class" afterPath="$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/classes/services/HelloServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/classes/services/HelloWorldServlet.class" afterPath="$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/classes/services/HelloWorldServlet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___com_test___helloworld_1_0_SNAPSHOT_war__exploded_.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___com_test___helloworld_1_0_SNAPSHOT_war__exploded_.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__antlr_antlr_2_7_7.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__antlr_antlr_2_7_7.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_external_flute_flute_1_3_0_gg2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_external_flute_flute_1_3_0_gg2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_sass_compiler_0_9_13.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_vaadin_sass_compiler_0_9_13.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__dom4j_dom4j_1_6_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__dom4j_dom4j_1_6_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_11.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_11.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_w3c_css_sac_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_w3c_css_sac_1_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/helloworld_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/helloworld_main.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/helloworld_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/helloworld_test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/helloworld.jsp" afterPath="$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/helloworld.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/index.jsp" afterPath="$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Dao/HelloDaoImpl.java" afterPath="$PROJECT_DIR$/src/main/java/Dao/HelloDaoImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/services/HelloService.java" afterPath="$PROJECT_DIR$/src/main/java/services/HelloService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/services/HelloServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/services/HelloServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/services/HelloWorldServlet.java" afterPath="$PROJECT_DIR$/src/main/java/services/HelloWorldServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/helloworld.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/helloworld.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -38,6 +179,20 @@
         <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
       </PATH_ELEMENT>
     </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="test@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="user" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="ExternalProjectsData">
@@ -63,6 +218,38 @@
                 <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
               </PATH_ELEMENT>
             </PATH>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="helloworld" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="Tasks" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
+              </PATH_ELEMENT>
+            </PATH>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="helloworld" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="Tasks" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="vaadin" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode$1" />
+              </PATH_ELEMENT>
+            </PATH>
           </tree_state>
         </projects_view>
       </state>
@@ -73,21 +260,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyUI.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/MyUI.java">
+      <file leaf-file-name="VaadintestUI.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/VaadintestUI.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="14" column="60" lean-forward="false" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+              <caret line="112" column="0" lean-forward="false" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,51 +272,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Customer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/java/Customer.java">
+      <file leaf-file-name="console.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ec6a439f-9c12-4915-a44e-f1e06af37cae/console.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="15">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gradlew" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gradlew">
+      <file leaf-file-name="WidgetSetGenerator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/WidgetSetGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="helloworld.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/helloworld.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloDaoImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Dao/HelloDaoImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="48" column="7" lean-forward="false" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
+            <state relative-caret-position="60">
+              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="false" />
               </folding>
@@ -147,36 +294,245 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CustomerFormDesign.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/CustomerFormDesign.java">
+      <file leaf-file-name="PlotOptionsSeries.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin.addon/vaadin-charts-model/3.2.0/880fb2104aea558d6fa8132188b066bc52f28da4/vaadin-charts-model-3.2.0-sources.jar!/com/vaadin/addon/charts/model/PlotOptionsSeries.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+            <state relative-caret-position="330">
+              <caret line="26" column="38" lean-forward="false" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="false" />
-                <element signature="e#348#349#0" expanded="false" />
-                <element signature="e#381#382#0" expanded="false" />
+                <element signature="e#2118#2119#0" expanded="false" />
+                <element signature="e#2148#2149#0" expanded="false" />
+                <element signature="e#2348#2349#0" expanded="false" />
+                <element signature="e#2395#2396#0" expanded="false" />
+                <element signature="e#2471#2472#0" expanded="false" />
+                <element signature="e#2494#2495#0" expanded="false" />
+                <element signature="e#3519#3520#0" expanded="false" />
+                <element signature="e#3552#3553#0" expanded="false" />
+                <element signature="e#3636#3637#0" expanded="false" />
+                <element signature="e#3664#3665#0" expanded="false" />
+                <element signature="e#4084#4085#0" expanded="false" />
+                <element signature="e#4127#4128#0" expanded="false" />
+                <element signature="e#4191#4192#0" expanded="false" />
+                <element signature="e#4210#4211#0" expanded="false" />
+                <element signature="e#4550#4551#0" expanded="false" />
+                <element signature="e#4575#4576#0" expanded="false" />
+                <element signature="e#4655#4656#0" expanded="false" />
+                <element signature="e#4680#4681#0" expanded="false" />
+                <element signature="e#4870#4871#0" expanded="false" />
+                <element signature="e#4907#4908#0" expanded="false" />
+                <element signature="e#4989#4990#0" expanded="false" />
+                <element signature="e#5015#5016#0" expanded="false" />
+                <element signature="e#5166#5167#0" expanded="false" />
+                <element signature="e#5205#5206#0" expanded="false" />
+                <element signature="e#5287#5288#0" expanded="false" />
+                <element signature="e#5314#5315#0" expanded="false" />
+                <element signature="e#5969#5970#0" expanded="false" />
+                <element signature="e#6010#6011#0" expanded="false" />
+                <element signature="e#6078#6079#0" expanded="false" />
+                <element signature="e#6098#6099#0" expanded="false" />
+                <element signature="e#6310#6311#0" expanded="false" />
+                <element signature="e#6337#6338#0" expanded="false" />
+                <element signature="e#6417#6418#0" expanded="false" />
+                <element signature="e#6440#6441#0" expanded="false" />
+                <element signature="e#7087#7088#0" expanded="false" />
+                <element signature="e#7120#7121#0" expanded="false" />
+                <element signature="e#7347#7348#0" expanded="false" />
+                <element signature="e#7382#7383#0" expanded="false" />
+                <element signature="e#7478#7479#0" expanded="false" />
+                <element signature="e#7511#7512#0" expanded="false" />
+                <element signature="e#7803#7804#0" expanded="false" />
+                <element signature="e#7856#7857#0" expanded="false" />
+                <element signature="e#7950#7951#0" expanded="false" />
+                <element signature="e#7982#7983#0" expanded="false" />
+                <element signature="e#8314#8315#0" expanded="false" />
+                <element signature="e#8365#8366#0" expanded="false" />
+                <element signature="e#8791#8792#0" expanded="false" />
+                <element signature="e#8852#8853#0" expanded="false" />
+                <element signature="e#9267#9268#0" expanded="false" />
+                <element signature="e#9295#9296#0" expanded="false" />
+                <element signature="e#9369#9370#0" expanded="false" />
+                <element signature="e#9392#9393#0" expanded="false" />
+                <element signature="e#9510#9511#0" expanded="false" />
+                <element signature="e#9543#9544#0" expanded="false" />
+                <element signature="e#9613#9614#0" expanded="false" />
+                <element signature="e#9634#9635#0" expanded="false" />
+                <element signature="e#9783#9784#0" expanded="false" />
+                <element signature="e#9812#9813#0" expanded="false" />
+                <element signature="e#9884#9885#0" expanded="false" />
+                <element signature="e#9906#9907#0" expanded="false" />
+                <element signature="e#10248#10249#0" expanded="false" />
+                <element signature="e#10279#10280#0" expanded="false" />
+                <element signature="e#10462#10463#0" expanded="false" />
+                <element signature="e#10489#10490#0" expanded="false" />
+                <element signature="e#10569#10570#0" expanded="false" />
+                <element signature="e#10596#10597#0" expanded="false" />
+                <element signature="e#10819#10820#0" expanded="false" />
+                <element signature="e#10860#10861#0" expanded="false" />
+                <element signature="e#10942#10943#0" expanded="false" />
+                <element signature="e#10969#10970#0" expanded="false" />
+                <element signature="e#11430#11431#0" expanded="false" />
+                <element signature="e#11471#11472#0" expanded="false" />
+                <element signature="e#11573#11574#0" expanded="false" />
+                <element signature="e#11604#11605#0" expanded="false" />
+                <element signature="e#12145#12146#0" expanded="false" />
+                <element signature="e#12194#12195#0" expanded="false" />
+                <element signature="e#12294#12295#0" expanded="false" />
+                <element signature="e#12322#12323#0" expanded="false" />
+                <element signature="e#13569#13570#0" expanded="false" />
+                <element signature="e#13612#13613#0" expanded="false" />
+                <element signature="e#13688#13689#0" expanded="false" />
+                <element signature="e#13712#13713#0" expanded="false" />
+                <element signature="e#14001#14002#0" expanded="false" />
+                <element signature="e#14036#14037#0" expanded="false" />
+                <element signature="e#14110#14111#0" expanded="false" />
+                <element signature="e#14132#14133#0" expanded="false" />
+                <element signature="e#14385#14386#0" expanded="false" />
+                <element signature="e#14416#14417#0" expanded="false" />
+                <element signature="e#14486#14487#0" expanded="false" />
+                <element signature="e#14506#14507#0" expanded="false" />
+                <element signature="e#14827#14828#0" expanded="false" />
+                <element signature="e#14854#14855#0" expanded="false" />
+                <element signature="e#14936#14937#0" expanded="false" />
+                <element signature="e#14962#14963#0" expanded="false" />
+                <element signature="e#15234#15235#0" expanded="false" />
+                <element signature="e#15273#15274#0" expanded="false" />
+                <element signature="e#15355#15356#0" expanded="false" />
+                <element signature="e#15381#15382#0" expanded="false" />
+                <element signature="e#15659#15660#0" expanded="false" />
+                <element signature="e#15698#15699#0" expanded="false" />
+                <element signature="e#15782#15783#0" expanded="false" />
+                <element signature="e#15809#15810#0" expanded="false" />
+                <element signature="e#16418#16419#0" expanded="false" />
+                <element signature="e#16459#16460#0" expanded="false" />
+                <element signature="e#16535#16536#0" expanded="false" />
+                <element signature="e#16557#16558#0" expanded="false" />
+                <element signature="e#16765#16766#0" expanded="false" />
+                <element signature="e#16796#16797#0" expanded="false" />
+                <element signature="e#17057#17058#0" expanded="false" />
+                <element signature="e#17084#17085#0" expanded="false" />
+                <element signature="e#17152#17153#0" expanded="false" />
+                <element signature="e#17170#17171#0" expanded="false" />
+                <element signature="e#17436#17437#0" expanded="false" />
+                <element signature="e#17459#17460#0" expanded="false" />
+                <element signature="e#17545#17546#0" expanded="false" />
+                <element signature="e#17573#17574#0" expanded="false" />
+                <element signature="e#18280#18281#0" expanded="false" />
+                <element signature="e#18323#18324#0" expanded="false" />
+                <element signature="e#18397#18398#0" expanded="false" />
+                <element signature="e#18420#18421#0" expanded="false" />
+                <element signature="e#18691#18692#0" expanded="false" />
+                <element signature="e#18724#18725#0" expanded="false" />
+                <element signature="e#19166#19167#0" expanded="false" />
+                <element signature="e#19195#19196#0" expanded="false" />
+                <element signature="e#19279#19280#0" expanded="false" />
+                <element signature="e#19307#19308#0" expanded="false" />
+                <element signature="e#19769#19770#0" expanded="false" />
+                <element signature="e#19812#19813#0" expanded="false" />
+                <element signature="e#19884#19885#0" expanded="false" />
+                <element signature="e#19905#19906#0" expanded="false" />
+                <element signature="e#20035#20036#0" expanded="false" />
+                <element signature="e#20064#20065#0" expanded="false" />
+                <element signature="e#20136#20137#0" expanded="false" />
+                <element signature="e#20158#20159#0" expanded="false" />
+                <element signature="e#20293#20294#0" expanded="false" />
+                <element signature="e#20324#20325#0" expanded="false" />
+                <element signature="e#20742#20743#0" expanded="false" />
+                <element signature="e#20804#20805#0" expanded="false" />
+                <element signature="e#21230#21231#0" expanded="false" />
+                <element signature="e#21260#21261#0" expanded="false" />
+                <element signature="e#21332#21333#0" expanded="false" />
+                <element signature="e#21353#21354#0" expanded="false" />
+                <element signature="e#21826#21827#0" expanded="false" />
+                <element signature="e#21855#21856#0" expanded="false" />
+                <element signature="e#22634#22635#0" expanded="false" />
+                <element signature="e#22673#22674#0" expanded="false" />
+                <element signature="e#22743#22744#0" expanded="false" />
+                <element signature="e#22764#22765#0" expanded="false" />
+                <element signature="e#23287#23288#0" expanded="false" />
+                <element signature="e#23316#23317#0" expanded="false" />
+                <element signature="e#23394#23395#0" expanded="false" />
+                <element signature="e#23419#23420#0" expanded="false" />
+                <element signature="e#23565#23566#0" expanded="false" />
+                <element signature="e#23602#23603#0" expanded="false" />
+                <element signature="e#23678#23679#0" expanded="false" />
+                <element signature="e#23702#23703#0" expanded="false" />
+                <element signature="e#24065#24066#0" expanded="false" />
+                <element signature="e#24100#24101#0" expanded="false" />
+                <element signature="e#24183#24184#0" expanded="false" />
+                <element signature="e#24233#24234#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CustomerService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/CustomerService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CustomerForm.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/CustomerForm.java">
+      <file leaf-file-name="WidgetSet.gwt.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/com/example/WidgetSet.gwt.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="widgetset-compile.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/logs/widgetset-compile.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="89" lean-forward="false" selection-start-line="6" selection-start-column="89" selection-end-line="6" selection-end-column="89" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="14" lean-forward="false" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UI.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-server/7.6.8/874c75ed7d87d037e139ca376a51841fbfee42f6/vaadin-server-7.6.8-sources.jar!/com/vaadin/ui/UI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8850">
+              <caret line="681" column="0" lean-forward="false" selection-start-line="681" selection-start-column="0" selection-end-line="681" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserVisite.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Dao/mapping/UserVisite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="e#220#221#0" expanded="false" />
+                <element signature="e#248#249#0" expanded="false" />
+                <element signature="e#287#288#0" expanded="false" />
+                <element signature="e#321#322#0" expanded="false" />
+                <element signature="e#350#351#0" expanded="false" />
+                <element signature="e#377#378#0" expanded="false" />
+                <element signature="e#415#416#0" expanded="false" />
+                <element signature="e#447#448#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="userDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/userDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1785">
+              <caret line="129" column="1" lean-forward="false" selection-start-line="129" selection-start-column="1" selection-end-line="129" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -187,18 +543,53 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jsp File" />
+        <option value="Vaadin7Widget" />
+        <option value="Vaadin7ClientWidget" />
+        <option value="Vaadin7WidgetClientRpc" />
+        <option value="Vaadin7WidgetServerRpc" />
+        <option value="Vaadin7WidgetConnector" />
+        <option value="Vaadin7WidgetState" />
+        <option value="Tag Library Descriptor" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>pk</find>
-      <find>logine</find>
-      <find>url</find>
-      <find>passw</find>
-      <find>n</find>
+      <find>text</find>
+      <find>test</find>
+      <find>com.vaadin.add</find>
+      <find>sess</find>
+      <find>session</find>
+      <find>sessionfactory</find>
+      <find>open</find>
+      <find>most</find>
+      <find>setContent</find>
+      <find>com.vaadin</find>
+      <find>vi</find>
+      <find>vaadin-ch</find>
+      <find>timel</find>
+      <find>vaadin-client</find>
+      <find>seri</find>
+      <find>add</find>
+      <find>addser</find>
+      <find>timeline</find>
+      <find>useren</find>
+      <find>setcon</find>
+      <find>bienvenu</find>
+      <find>layout</find>
+      <find>form</find>
+      <find>chart</find>
+      <find>conf</find>
+      <find>navigator</find>
+      <find>PlotOptions</find>
+      <find>Type</find>
+      <find>TYpe</find>
+      <find>dateFormat</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -412,16 +803,6 @@
                 <option name="name" value="components" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles the webapp into a war and deploys it to Jetty." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="jettyRunWar" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Stops Jetty." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="jettyStop" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project and all projects that depend on it." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="buildDependents" />
@@ -450,11 +831,6 @@
                 <option name="description" value="Generates Javadoc API documentation for the main source code." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="javadoc" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Uses your files as and where they are and deploys them to Jetty." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="jettyRun" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -560,7 +936,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="2967259145206" />
+        <entry key="$PROJECT_DIR$" value="2969143408107" />
         <entry key="$PROJECT_DIR$/../helloworld4" value="1479981284000" />
       </map>
     </option>
@@ -616,9 +992,7 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.http2/http2-server/9.3.6.v20151106/ead6264eaec52ac99b1dea5d16dd91eee8cb152f/http2-server-9.3.6.v20151106.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.http2/http2-client/9.3.6.v20151106/d4836a4db721891a01900b75447554c72f711623/http2-client-9.3.6.v20151106-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.http2/http2-client/9.3.6.v20151106/b179185f16143e58b4666d820d0c12be869f06ee/http2-client-9.3.6.v20151106.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.websocket/javax.websocket-api/1.0/107b0fdc7ca320b54dc1393e01585be5883ff348/javax.websocket-api-1.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.websocket/javax.websocket-api/1.0/fc843b649d4a1dcb0497669d262befa3918c7ba8/javax.websocket-api-1.0.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/ab3976d4574c48d22dc1abf6a9e8bd0fdf928223/javax.servlet-api-3.1.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/3cd63d075497751784b2fa84be59432f4905bf7c/javax.servlet-api-3.1.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/javax.mail.glassfish/1.4.1.v201005082020/b12c43ddc708b244291f62c55a440dc272a947ff/javax.mail.glassfish-1.4.1.v201005082020-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/javax.mail.glassfish/1.4.1.v201005082020/b707c39fc080529c4a9ffc1df4eac58421133aaf/javax.mail.glassfish-1.4.1.v201005082020.jar" />
@@ -646,11 +1020,8 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-webapp/9.3.6.v20151106/9cf00a3b7b2c1b6e024bb687e3719e1b0ff9e899/jetty-webapp-9.3.6.v20151106.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-xml/9.3.6.v20151106/e00ff8c518469b00ce2a2feb9ac08fb219e5ba5f/jetty-xml-9.3.6.v20151106-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-xml/9.3.6.v20151106/b22e22977ea6c08751f8c945bb0785c35f9db28a/jetty-xml-9.3.6.v20151106.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/ad18a02db08eaee697f812e333f692fc51129e4a/javax.annotation-api-1.2-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.0.1/78ebb2694324283f3120aa3ed52465b22fab8a4a/asm-5.0.1-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.0.1/2fd56467a018aafe6ec6a73ccba520be4a7e1565/asm-5.0.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/5.0.1/78ebb2694324283f3120aa3ed52465b22fab8a4a/asm-commons-5.0.1-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/5.0.1/7b7147a390a93a14d2edfdcf3f7b0e87a0939c3e/asm-commons-5.0.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-security/9.3.6.v20151106/23e4999166b4893e5ea4a0b50d312b9e7884075/jetty-security-9.3.6.v20151106-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-security/9.3.6.v20151106/e44ffc80834a7f78a5b0ed15c54b875956772242/jetty-security-9.3.6.v20151106.jar" />
@@ -660,7 +1031,6 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-server/9.3.6.v20151106/d9c43a1b20ede7e3c456237d71b4cce1dff5457a/jetty-server-9.3.6.v20151106.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-continuation/9.3.6.v20151106/e9e25b8990ffaf7c50fb6b2b7f9ad314ba7ffd6b/jetty-continuation-9.3.6.v20151106-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-continuation/9.3.6.v20151106/a120bc737d2efc6ebf4a703325ee679aff181881/jetty-continuation-9.3.6.v20151106.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.transaction/javax.transaction-api/1.2/5d1fb3fe056fe51e6f6ed9b4ef4898a774ed69c0/javax.transaction-api-1.2-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.transaction/javax.transaction-api/1.2/d81aff979d603edd90dcd8db2abc1f4ce6479e3e/javax.transaction-api-1.2.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-api/9.3.6.v20151106/fb1689187053747b6a8879eff065e995302d84c6/websocket-api-9.3.6.v20151106-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-api/9.3.6.v20151106/65f10d2e51c5c66f5642c9d0e10ea7963866cdf2/websocket-api-9.3.6.v20151106.jar" />
@@ -691,7 +1061,6 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpg-jdk15on/1.51/b5fa4c280dfbf8bf7c260bc1e78044c7a1de5133/bcpg-jdk15on-1.51.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlet/9.3.6.v20151106/eade58e70a7e1910d02bbaec901b255b9dce41db/jetty-servlet-9.3.6.v20151106-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlet/9.3.6.v20151106/62c03d6c7203735d4e28e4e78e22df38152f01ef/jetty-servlet-9.3.6.v20151106.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/5.0.1/78ebb2694324283f3120aa3ed52465b22fab8a4a/asm-tree-5.0.1-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/5.0.1/1b1e6e9d869acd704056d0a4223071a511c619e6/asm-tree-5.0.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-common/9.3.6.v20151106/5686bcae10b11b04f6d01a59aa33d5c0a7491456/websocket-common-9.3.6.v20151106-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-common/9.3.6.v20151106/98159bab70b395029656de403c825a71e7500ef1/websocket-common-9.3.6.v20151106.jar" />
@@ -699,13 +1068,11 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.http2/http2-hpack/9.3.6.v20151106/2b1504f9d7422ee44e5603803e00cbf2efdd9d26/http2-hpack-9.3.6.v20151106.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.2.1/3f6caf5334fa83607b82e2f32dd128a9d8a0ea5e/httpcore-4.2.1-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.2.1/2d503272bf0a8b5f92d64db78b4ba9abbaccc6fd/httpcore-4.2.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.1/f3f156cbff0e0fb0d64bfce31a352cce4a33bc19/commons-logging-1.1.1-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.1/5043bfebc3db072ed80fbd362e7caf00e885d8ae/commons-logging-1.1.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.6/61e9f9d11fe3e12ec62f633006e99d75fd7f19c8/commons-codec-1.6-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.6/b7f0fc8f61ecadeb3695f0b9464755eee44374d4/commons-codec-1.6.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-beanutils/commons-beanutils/1.8.0/2818502bbb50bbcbd3f57e92a2bfe4d496f37688/commons-beanutils-1.8.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-beanutils/commons-beanutils/1.8.0/c651d5103c649c12b20d53731643e5fffceb536/commons-beanutils-1.8.0.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2.1/fa095ef874374e5b2a11f8b06c26a5d68c7cb3a4/commons-collections-3.2.1-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2.1/761ea405b9b37ced573d2df0d1e3a4e0f9edc668/commons-collections-3.2.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-lang/commons-lang/2.4/2b8c4b3035e45520ef42033e823c7d33e4b4402c/commons-lang-2.4-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-lang/commons-lang/2.4/16313e02a793435009f1e458fa4af5d879f6fb11/commons-lang-2.4.jar" />
@@ -872,13 +1239,15 @@
       <projects_view />
     </option>
   </component>
+  <component name="GwtCompilerConfiguration">
+    <show-output>
+      <module name="helloworld_main" />
+    </show-output>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Dao/HelloDao.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/helloworld.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/services/HelloworldServlet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/services/HelloServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/Dao/mapping/User.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Dao/mapping/user.xml" />
         <option value="$PROJECT_DIR$/src/main/java/persistance.xml" />
@@ -891,23 +1260,44 @@
         <option value="$PROJECT_DIR$/src/main/persistance.xml" />
         <option value="$PROJECT_DIR$/build/resources/main/META-INF/persistance.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/Dao/mapping/user.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistance.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/services/hibernate.xml" />
-        <option value="dbtable:/a511556d/ec6a439f-9c12-4915-a44e-f1e06af37cae/test.user" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/ec6a439f-9c12-4915-a44e-f1e06af37cae/console.sql" />
-        <option value="$PROJECT_DIR$/src/main/java/Dao/HelloDaoImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Dao/mapping/UserEntity.java" />
         <option value="$PROJECT_DIR$/src/main/resources/Dao/mapping/UserEntity.hbm.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/services/HelloWorldServlet.java" />
         <option value="$PROJECT_DIR$/src/bin/helloworld.upstart" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/app.java" />
         <option value="$PROJECT_DIR$/src/main/java/appService.java" />
         <option value="$PROJECT_DIR$/src/main/java/appDesign.java" />
         <option value="$PROJECT_DIR$/src/main/java/CustomerForm.java" />
-        <option value="$PROJECT_DIR$/src/main/java/MyUI.java" />
         <option value="$PROJECT_DIR$/src/main/java/CustomerService.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/MyUI.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/vaadin/DefaultWidgetSet.gwt.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/helloworld.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/services/HelloWorldServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/HelloService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/HelloServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/HelloService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/nom.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/UI2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/HelloServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Dao/HelloDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/BeanItemContainer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/LazyHibernateEntityManagerProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/ChartsData.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/VAADIN/DefaultWidgetSet.gwt.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/somme.java" />
+        <option value="dbtable:/a511556d/ec6a439f-9c12-4915-a44e-f1e06af37cae/test.user" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/client/TimeLineWidget.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/TimeLine.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistance.xml.tld" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistance.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Dao/mapping/UserEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Dao/mapping/UserVisite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/userDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/example/WidgetSet.gwt.xml" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/ec6a439f-9c12-4915-a44e-f1e06af37cae/console.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/VaadintestUI.java" />
       </list>
     </option>
   </component>
@@ -927,8 +1317,33 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
     <option name="y" value="24" />
-    <option name="width" value="735" />
-    <option name="height" value="576" />
+    <option name="width" value="1855" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Since15</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -945,6 +1360,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -972,61 +1389,19 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="helloworld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="helloworld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="helloworld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="helloworld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.31662437" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../soft" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../softbridge2" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="JPA.DatabaseSchemaImportDialog" value="ec6a439f-9c12-4915-a44e-f1e06af37cae" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/resources/Dao/mapping" />
@@ -1034,10 +1409,17 @@
     <property name="android.project.structure.proportion" value="0.15" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example" />
       <recent name="java" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/VAADIN/themes" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/VAADIN/widgetsets" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/java/services" />
       <recent name="$PROJECT_DIR$/src/main/java/Dao" />
     </key>
@@ -1045,15 +1427,15 @@
       <recent name="Dao.mapping" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/resources/META-INF" />
       <recent name="$PROJECT_DIR$/src/main" />
       <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/resources/Dao/mapping" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.test">
-    <configuration default="false" name="helloworld [war]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Tomcat Server.helloworld">
+    <configuration default="false" name="helloworld [vaadinCreateWidgetsetGenerator]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -1064,14 +1446,14 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="war" />
+            <option value="vaadinCreateWidgetsetGenerator" />
           </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
       <method />
     </configuration>
-    <configuration default="false" name="helloworld [buildDeb]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration default="false" name="helloworld [vaadinCompile]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -1082,14 +1464,14 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="buildDeb" />
+            <option value="vaadinCompile" />
           </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
       <method />
     </configuration>
-    <configuration default="false" name="helloworld [fooDeb]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration default="false" name="helloworld [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -1100,14 +1482,14 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="fooDeb" />
+            <option value="clean" />
           </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
       <method />
     </configuration>
-    <configuration default="false" name="helloworld [:buildDeb]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration default="false" name="helloworld [vaadinUpdateWidgetset]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -1118,23 +1500,30 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value=":buildDeb" />
+            <option value="vaadinUpdateWidgetset" />
           </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
       <method />
     </configuration>
-    <configuration default="false" name="build" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
-      <module name="helloworld" />
-      <setting name="path" value="file://$PROJECT_DIR$/build.gradle" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
-      <method>
-        <option name="Make" enabled="false" />
-      </method>
+    <configuration default="false" name="helloworld [vaadinCreateComposite]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="vaadinCreateComposite" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
     </configuration>
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
       <deployment />
@@ -1570,6 +1959,7 @@
       </deployment>
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="Unnamed_helloworld_2" />
+        <option name="JNDI_PORT" value="1097" />
       </server-settings>
       <predefined_log_file id="Tomcat" enabled="true" />
       <predefined_log_file id="Tomcat Catalina" enabled="true" />
@@ -1631,8 +2021,81 @@
         </option>
       </method>
     </configuration>
+    <configuration default="false" name="vaadin" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.0.M13" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : com.test : helloworld-1.0-SNAPSHOT.war (exploded)">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_helloworld_3" />
+        <option name="JNDI_PORT" value="1094" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="46709" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : com.test : helloworld-1.0-SNAPSHOT.war (exploded)" />
+        </option>
+      </method>
+    </configuration>
     <configuration default="false" name="helloworld" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.0.M13" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="$USER_HOME$/Téléchargements/jdk1.8.0_112">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/helloworld" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8078/helloworld" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="Gradle : com.test : helloworld-1.0-SNAPSHOT.war (exploded)">
@@ -1643,6 +2106,8 @@
       </deployment>
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="Unnamed_helloworld" />
+        <option name="HTTP_PORT" value="8078" />
+        <option name="JNDI_PORT" value="1078" />
         <option name="PRESERVE_SESSIONS" value="true" />
       </server-settings>
       <predefined_log_file id="Tomcat" enabled="true" />
@@ -1705,23 +2170,24 @@
         </option>
       </method>
     </configuration>
-    <list size="8">
+    <list size="9">
       <item index="0" class="java.lang.String" itemvalue="Gradle.helloworld [:fooDeb]" />
       <item index="1" class="java.lang.String" itemvalue="Tomcat Server.test" />
-      <item index="2" class="java.lang.String" itemvalue="Tomcat Server.helloworld" />
-      <item index="3" class="java.lang.String" itemvalue="Gradle.helloworld [war]" />
-      <item index="4" class="java.lang.String" itemvalue="Gradle.helloworld [buildDeb]" />
-      <item index="5" class="java.lang.String" itemvalue="Gradle.helloworld [fooDeb]" />
-      <item index="6" class="java.lang.String" itemvalue="Gradle.helloworld [:buildDeb]" />
-      <item index="7" class="java.lang.String" itemvalue="Groovy.build" />
+      <item index="2" class="java.lang.String" itemvalue="Tomcat Server.vaadin" />
+      <item index="3" class="java.lang.String" itemvalue="Tomcat Server.helloworld" />
+      <item index="4" class="java.lang.String" itemvalue="Gradle.helloworld [vaadinCreateWidgetsetGenerator]" />
+      <item index="5" class="java.lang.String" itemvalue="Gradle.helloworld [vaadinCompile]" />
+      <item index="6" class="java.lang.String" itemvalue="Gradle.helloworld [clean]" />
+      <item index="7" class="java.lang.String" itemvalue="Gradle.helloworld [vaadinUpdateWidgetset]" />
+      <item index="8" class="java.lang.String" itemvalue="Gradle.helloworld [vaadinCreateComposite]" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Gradle.helloworld [war]" />
-        <item index="1" class="java.lang.String" itemvalue="Gradle.helloworld [:buildDeb]" />
-        <item index="2" class="java.lang.String" itemvalue="Gradle.helloworld [buildDeb]" />
-        <item index="3" class="java.lang.String" itemvalue="Groovy.build" />
-        <item index="4" class="java.lang.String" itemvalue="Gradle.helloworld [fooDeb]" />
+        <item index="0" class="java.lang.String" itemvalue="Gradle.helloworld [vaadinCreateComposite]" />
+        <item index="1" class="java.lang.String" itemvalue="Gradle.helloworld [vaadinCompile]" />
+        <item index="2" class="java.lang.String" itemvalue="Gradle.helloworld [vaadinUpdateWidgetset]" />
+        <item index="3" class="java.lang.String" itemvalue="Gradle.helloworld [clean]" />
+        <item index="4" class="java.lang.String" itemvalue="Gradle.helloworld [vaadinCreateWidgetsetGenerator]" />
       </list>
     </recent_temporary>
   </component>
@@ -1770,55 +2236,250 @@
       <workItem from="1487185722195" duration="1682000" />
       <workItem from="1487188207319" duration="2144000" />
       <workItem from="1487190378637" duration="1715000" />
-      <workItem from="1487255739401" duration="88000" />
+      <workItem from="1487255739401" duration="1285000" />
+      <workItem from="1487257756729" duration="1587000" />
+      <workItem from="1487259969627" duration="1687000" />
+      <workItem from="1487262496371" duration="406000" />
+      <workItem from="1487269414670" duration="974000" />
+      <workItem from="1487273957286" duration="1007000" />
+      <workItem from="1487275310381" duration="56000" />
+      <workItem from="1487275721856" duration="1622000" />
+      <workItem from="1487277405008" duration="1197000" />
+      <workItem from="1487336121502" duration="1858000" />
+      <workItem from="1487338129004" duration="1164000" />
+      <workItem from="1487340168653" duration="67000" />
+      <workItem from="1487342759833" duration="413000" />
+      <workItem from="1487361622171" duration="950000" />
+      <workItem from="1487362679205" duration="1828000" />
+      <workItem from="1487364680141" duration="569000" />
+      <workItem from="1487381627569" duration="11000" />
+      <workItem from="1487535025610" duration="1880000" />
+      <workItem from="1487537006855" duration="711000" />
+      <workItem from="1487538959368" duration="1717000" />
+      <workItem from="1487541657880" duration="868000" />
+      <workItem from="1487543504638" duration="1957000" />
+      <workItem from="1487545525902" duration="17000" />
+      <workItem from="1487545903768" duration="708000" />
+      <workItem from="1487547494658" duration="475000" />
+      <workItem from="1487550729118" duration="599000" />
+      <workItem from="1487558973220" duration="2078000" />
+      <workItem from="1487562019574" duration="1717000" />
+      <workItem from="1487595353740" duration="2137000" />
+      <workItem from="1487597574456" duration="2286000" />
+      <workItem from="1487599900405" duration="2361000" />
+      <workItem from="1487603096601" duration="1750000" />
+      <workItem from="1487604924897" duration="1685000" />
+      <workItem from="1487606722882" duration="967000" />
+      <workItem from="1487614968954" duration="26000" />
+      <workItem from="1487618515083" duration="175000" />
+      <workItem from="1487619419248" duration="1209000" />
+      <workItem from="1487621630608" duration="1406000" />
+      <workItem from="1487623473171" duration="585000" />
+      <workItem from="1487682171523" duration="1814000" />
+      <workItem from="1487684038689" duration="731000" />
+      <workItem from="1487684860465" duration="2444000" />
+      <workItem from="1487687359318" duration="1079000" />
+      <workItem from="1487689476079" duration="1353000" />
+      <workItem from="1487706360460" duration="1787000" />
+      <workItem from="1487708473401" duration="1356000" />
+      <workItem from="1487710562215" duration="118000" />
+      <workItem from="1487770065842" duration="1950000" />
+      <workItem from="1487772471628" duration="1846000" />
+      <workItem from="1487775104195" duration="965000" />
+      <workItem from="1487776983569" duration="599000" />
+      <workItem from="1487779347880" duration="599000" />
+      <workItem from="1487781171088" duration="599000" />
+      <workItem from="1487854968699" duration="1615000" />
+      <workItem from="1487857055492" duration="424000" />
+      <workItem from="1487859345883" duration="1825000" />
+      <workItem from="1487861189086" duration="2087000" />
+      <workItem from="1487863295422" duration="1605000" />
+      <workItem from="1487865153374" duration="1971000" />
+      <workItem from="1487867143164" duration="1438000" />
+      <workItem from="1487868958512" duration="2354000" />
+      <workItem from="1487871334107" duration="350000" />
+      <workItem from="1487871766565" duration="123000" />
+      <workItem from="1487874235492" duration="1842000" />
+      <workItem from="1487876109214" duration="1789000" />
+      <workItem from="1487878385292" duration="59000" />
+      <workItem from="1487878525200" duration="99000" />
+      <workItem from="1487952511962" duration="13000" />
+      <workItem from="1488201430927" duration="1713000" />
+      <workItem from="1488203166367" duration="1407000" />
+      <workItem from="1488204602286" duration="394000" />
+      <workItem from="1488205015210" duration="1950000" />
+      <workItem from="1488206987203" duration="257000" />
+      <workItem from="1488207286763" duration="21000" />
+      <workItem from="1488208452079" duration="485000" />
+      <workItem from="1488208984084" duration="1802000" />
+      <workItem from="1488211820832" duration="1794000" />
+      <workItem from="1488213801239" duration="203000" />
+      <workItem from="1488214292427" duration="17000" />
+      <workItem from="1488214739340" duration="835000" />
+      <workItem from="1488215616676" duration="109000" />
+      <workItem from="1488218299594" duration="715000" />
+      <workItem from="1488219352864" duration="753000" />
+      <workItem from="1488222518836" duration="674000" />
+      <workItem from="1488223263308" duration="368000" />
+      <workItem from="1488224448130" duration="39000" />
+      <workItem from="1488224520833" duration="14000" />
+      <workItem from="1488224657831" duration="41000" />
+      <workItem from="1488224731059" duration="292000" />
+      <workItem from="1488225087695" duration="1169000" />
+      <workItem from="1488226353336" duration="619000" />
+      <workItem from="1488227173927" duration="599000" />
+      <workItem from="1488453113184" duration="56000" />
+      <workItem from="1488453359728" duration="52000" />
+      <workItem from="1488453981653" duration="70000" />
+      <workItem from="1488454523300" duration="24000" />
+      <workItem from="1488456952819" duration="74000" />
+      <workItem from="1488457195058" duration="721000" />
+      <workItem from="1488459221356" duration="122000" />
+      <workItem from="1488459413420" duration="1777000" />
+      <workItem from="1488461210854" duration="978000" />
+      <workItem from="1488462531163" duration="481000" />
+      <workItem from="1488463077173" duration="1848000" />
+      <workItem from="1488464944668" duration="1974000" />
+      <workItem from="1488466938384" duration="1814000" />
+      <workItem from="1488468773629" duration="1342000" />
+      <workItem from="1488470594457" duration="1280000" />
+      <workItem from="1488476998882" duration="14000" />
+      <workItem from="1488477870501" duration="25000" />
+      <workItem from="1488478355521" duration="15000" />
+      <workItem from="1488478858321" duration="29000" />
+      <workItem from="1488478938830" duration="100000" />
+      <workItem from="1488479723953" duration="19000" />
+      <workItem from="1488479815722" duration="41000" />
+      <workItem from="1488480582621" duration="68000" />
+      <workItem from="1488480687945" duration="646000" />
+      <workItem from="1488481397472" duration="1375000" />
+      <workItem from="1488483059351" duration="420000" />
+      <workItem from="1488483550494" duration="1836000" />
+      <workItem from="1488485462495" duration="1963000" />
+      <workItem from="1488487462281" duration="156000" />
+      <workItem from="1488540586639" duration="1463000" />
+      <workItem from="1488542408627" duration="1801000" />
+      <workItem from="1488544499054" duration="1257000" />
+      <workItem from="1488546556289" duration="1806000" />
+      <workItem from="1488548422165" duration="712000" />
+      <workItem from="1488550197178" duration="1622000" />
+      <workItem from="1488552802765" duration="1517000" />
+      <workItem from="1488554627679" duration="622000" />
+      <workItem from="1488556455932" duration="1459000" />
+      <workItem from="1488558321725" duration="1776000" />
+      <workItem from="1488560132696" duration="1206000" />
+      <workItem from="1488563205548" duration="1331000" />
+      <workItem from="1488565228275" duration="1815000" />
+      <workItem from="1488567109175" duration="2117000" />
+      <workItem from="1488569841466" duration="715000" />
+      <workItem from="1488807442815" duration="1750000" />
+      <workItem from="1488809214292" duration="222000" />
+      <workItem from="1488809543701" duration="1170000" />
+      <workItem from="1488811186749" duration="1370000" />
+      <workItem from="1488817783699" duration="1862000" />
+      <workItem from="1488822706421" duration="1792000" />
+      <workItem from="1488824530110" duration="2166000" />
+      <workItem from="1488826769584" duration="1467000" />
+      <workItem from="1488828670911" duration="999000" />
+      <workItem from="1488829705658" duration="69000" />
+      <workItem from="1488829784000" duration="11000" />
+      <workItem from="1488830266582" duration="219000" />
+      <workItem from="1488830549200" duration="1193000" />
+      <workItem from="1488831799916" duration="132000" />
+      <workItem from="1488831969675" duration="390000" />
+      <workItem from="1488832430385" duration="30000" />
+      <workItem from="1488832482090" duration="891000" />
+      <workItem from="1488833424368" duration="338000" />
+      <workItem from="1488892556225" duration="1391000" />
+      <workItem from="1488894082720" duration="624000" />
+      <workItem from="1488895231057" duration="78000" />
+      <workItem from="1488895498536" duration="219000" />
+      <workItem from="1488895939027" duration="157000" />
+      <workItem from="1488896248661" duration="268000" />
+      <workItem from="1488899550912" duration="75000" />
+      <workItem from="1488899776787" duration="335000" />
+      <workItem from="1488900209552" duration="866000" />
+      <workItem from="1488901248485" duration="1099000" />
+      <workItem from="1488902484359" duration="204000" />
+      <workItem from="1488902869451" duration="439000" />
+      <workItem from="1488903419634" duration="209000" />
+      <workItem from="1488904132406" duration="610000" />
+      <workItem from="1488905185684" duration="599000" />
+      <workItem from="1488977441103" duration="1721000" />
+      <workItem from="1488979189105" duration="1742000" />
+      <workItem from="1488981034389" duration="1575000" />
+      <workItem from="1488982644803" duration="205000" />
+      <workItem from="1488982868306" duration="1662000" />
+      <workItem from="1488984688075" duration="1801000" />
+      <workItem from="1488986510870" duration="2134000" />
+      <workItem from="1488988931147" duration="1879000" />
+      <workItem from="1488990829990" duration="1990000" />
+      <workItem from="1488992849866" duration="1956000" />
+      <workItem from="1488994880085" duration="1544000" />
+      <workItem from="1489000232739" duration="1768000" />
+      <workItem from="1489002105030" duration="1793000" />
+      <workItem from="1489003918626" duration="1383000" />
+      <workItem from="1489005941762" duration="2192000" />
+      <workItem from="1489065552391" duration="1811000" />
+      <workItem from="1489067387228" duration="1430000" />
+      <workItem from="1489069204941" duration="1987000" />
+      <workItem from="1489071221000" duration="1796000" />
+      <workItem from="1489073037039" duration="1597000" />
+      <workItem from="1489074867859" duration="780000" />
+      <workItem from="1489076020333" duration="1811000" />
+      <workItem from="1489077854800" duration="1838000" />
+      <workItem from="1489079722196" duration="1346000" />
+      <workItem from="1489081530824" duration="926000" />
+      <workItem from="1489082573524" duration="165000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="161230000" />
+    <option name="totallyTimeSpent" value="360856000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="735" height="576" extended-state="6" />
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.89065605" sideWeight="0.52789116" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.52905196" sideWeight="0.5374663" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22857143" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10781671" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39776194" sideWeight="0.49595687" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39653414" sideWeight="0.49595687" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.89065605" sideWeight="0.47210884" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2340136" sideWeight="0.6222664" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2340136" sideWeight="0.3777336" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2864424" sideWeight="0.46253368" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3119266" sideWeight="0.68679243" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28355795" sideWeight="0.48929664" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28355795" sideWeight="0.5107034" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15646258" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20808625" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960325" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28827038" sideWeight="0.42585033" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27930683" sideWeight="0.6134771" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960325" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32517838" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3282365" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1867,15 +2528,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Dao/HelloDaoImpl.java</url>
-          <line>46</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="11" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1884,143 +2537,177 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.2.4.Final/440725374575de2319da40115c8879010be7b519/hibernate-core-5.2.4.Final-sources.jar!/org/hibernate/cfg/Configuration.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-catalina/9.0.0.M13/fce09ee6afa655a912396b44a627e23ad91e1eed/tomcat-catalina-9.0.0.M13-sources.jar!/org/apache/catalina/startup/Catalina.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="257" column="41" lean-forward="false" selection-start-line="257" selection-start-column="41" selection-end-line="257" selection-end-column="41" />
+        <state relative-caret-position="8760">
+          <caret line="654" column="0" lean-forward="false" selection-start-line="654" selection-start-column="0" selection-end-line="654" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.2.4.Final/440725374575de2319da40115c8879010be7b519/hibernate-core-5.2.4.Final-sources.jar!/org/hibernate/boot/registry/StandardServiceRegistryBuilder.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/HelloService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="162" column="49" lean-forward="false" selection-start-line="162" selection-start-column="49" selection-end-line="162" selection-end-column="49" />
+        <state relative-caret-position="90">
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.2.4.Final/440725374575de2319da40115c8879010be7b519/hibernate-core-5.2.4.Final-sources.jar!/org/hibernate/boot/cfgxml/internal/ConfigLoader.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/HelloServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="49" column="24" lean-forward="false" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+        <state relative-caret-position="195">
+          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/helloworld/services/hibernate.cfg.xml" />
-    <entry file="file://$PROJECT_DIR$/out/production/helloworld/services/hibernate.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/HelloWorldServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/BeanItemContainer.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-server/8.0.0/985097fb857b51d7c57a27df0541942fb8906692/vaadin-server-8.0.0-sources.jar!/com/vaadin/data/ValueProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="57" column="18" lean-forward="false" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Téléchargements/jdk1.8.0_112/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="48" column="6" lean-forward="false" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/LazyHibernateEntityManagerProvider.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/ChartsData.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-server/8.0.0/985097fb857b51d7c57a27df0541942fb8906692/vaadin-server-8.0.0-sources.jar!/com/vaadin/ui/UI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-33">
+          <caret line="759" column="28" lean-forward="false" selection-start-line="759" selection-start-column="28" selection-end-line="759" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/VAADIN/widgetsets/com.example.WidgetSet/compilation-mappings.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/VAADIN/widgetsets/com.example.WidgetSet/com.example.WidgetSet.devmode.js" />
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/helloworld/services/persistance.xml" />
-    <entry file="file://$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/classes/services/hibernate.cfg.xml" />
-    <entry file="file://$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/classes/services/hibernate.xml" />
-    <entry file="file://$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/classes/services/persistance.xml" />
-    <entry file="file://$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/classes/Dao/mapping/user.xml" />
-    <entry file="file://$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/classes/Dao/mapping/UserEntity.hbm.xml" />
-    <entry file="file://$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/classes/Dao/mapping/UserEntity.class" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/services/hibernate.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/helloworld.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        <state relative-caret-position="270">
+          <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/6.0.5/6d5546956712e1dd8fb8554071c583c831708a2a/mysql-connector-java-6.0.5-sources.jar!/com/mysql/cj/jdbc/PreparedStatement.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="824">
-          <caret line="1954" column="0" lean-forward="false" selection-start-line="1954" selection-start-column="0" selection-end-line="1954" selection-end-column="0" />
+        <state relative-caret-position="195">
+          <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/33fbaa7276b774ef0925f541640f6ff23fbc62dc/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/Persistence.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/VAADIN/widgetsets/com.example.WidgetSet/clear.cache.gif" />
+    <entry file="file://$PROJECT_DIR$/src/conf/helloworld.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="50" column="98" lean-forward="false" selection-start-line="50" selection-start-column="98" selection-end-line="50" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.2.4.Final/440725374575de2319da40115c8879010be7b519/hibernate-core-5.2.4.Final-sources.jar!/org/hibernate/jpa/HibernatePersistenceProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="65" column="58" lean-forward="false" selection-start-line="65" selection-start-column="58" selection-end-line="65" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/resources/main/Dao/mapping/UserEntity.hbm.xml" />
-    <entry file="file://$PROJECT_DIR$/build/resources/main/Dao/mapping/user.xml" />
-    <entry file="file://$PROJECT_DIR$/build/resources/main/META-INF/persistance.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistance.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Dao/mapping/user.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Dao/mapping/UserEntity.hbm.xml" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.2.4.Final/440725374575de2319da40115c8879010be7b519/hibernate-core-5.2.4.Final-sources.jar!/org/hibernate/dialect/MySQLDialect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="43" column="13" lean-forward="false" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Dao/mapping/UserEntity.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Dao/mapping/UserEntity.xml" />
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/Hibernate/lib/hibernate.jar!/resources/schemas/hibernate-mapping-3.0.dtd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13125">
-          <caret line="875" column="21" lean-forward="false" selection-start-line="875" selection-start-column="21" selection-end-line="875" selection-end-column="21" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/a511556d/ec6a439f-9c12-4915-a44e-f1e06af37cae/test.user">
-      <provider selected="true" editor-type-id="text-editor">
+      <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
-      <provider editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/services/hibernate.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/somme.java" />
+    <entry file="jar://$USER_HOME$/Téléchargements/jdk1.8.0_112/src.zip!/java/sql/Date.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="270">
+          <caret line="42" column="13" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ec6a439f-9c12-4915-a44e-f1e06af37cae/console.sql">
+    <entry file="dbDummy://dbtable:/a511556d/ec6a439f-9c12-4915-a44e-f1e06af37cae/test.user">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Dao/mapping/UserEntity.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/client/TimeLineServerRpc.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/client/TimeLineConnector.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/client/TimeLineClientRpc.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/client/TimeLineState.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/client/TimeLineWidget.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/TimeLine.java" />
+    <entry file="file://$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/classes/com/example/mycomposite/MyComposite.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/libs/exploded/helloworld-1.0-SNAPSHOT.war/WEB-INF/classes/com/example/WidgetSet.gwt.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/mycomposite/MyComposite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/beans.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="uml://Persistence/JavaeeElement:/a511556d/services:hibernate.xml/helloworld_main/hibernate/Hibernate/PersistenceModel">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>Persistence</ID>
-          <OriginalElement>JavaeeElement:/a511556d/services:hibernate.xml/helloworld_main/hibernate/Hibernate/PersistenceModel</OriginalElement>
-          <nodes>
-            <node x="" y="">UserEntity#file:///home/cangou/IdeaProjects/helloworld/src/main/java/Dao/mapping/UserEntity.java</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="70.0" y="52.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Embeddables</Category>
-            <Category>Properties</Category>
-            <Category>Superclasses</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/services/hibernate.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistance.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2033,138 +2720,290 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/Dao/mapping/UserEntity.hbm.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="90">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/services/HelloService.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin.addon/vaadin-charts/2.1.3-FIX19695-2/1b24613dc60c7ee9a7d37875d398c4d6c771295a/vaadin-charts-2.1.3-FIX19695-2.jar!/com/vaadin/addon/timeline/Timeline.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        <state relative-caret-position="10470">
+          <caret line="739" column="16" lean-forward="false" selection-start-line="739" selection-start-column="16" selection-end-line="739" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/services/HelloWorldServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="19" column="55" lean-forward="false" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/services/HelloServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Dao/mapping/UserEntity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bin/helloworld.upstart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bin/helloworld.upstart.save">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="4" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/helloworld.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Dao/HelloDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="48" column="7" lean-forward="false" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
+        <state relative-caret-position="705">
+          <caret line="52" column="53" lean-forward="false" selection-start-line="52" selection-start-column="53" selection-end-line="52" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-server/7.6.8/874c75ed7d87d037e139ca376a51841fbfee42f6/vaadin-server-7.6.8-sources.jar!/com/vaadin/server/SynchronizedRequestHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-server/7.6.8/874c75ed7d87d037e139ca376a51841fbfee42f6/vaadin-server-7.6.8-sources.jar!/com/vaadin/ui/UI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8850">
+          <caret line="681" column="0" lean-forward="false" selection-start-line="681" selection-start-column="0" selection-end-line="681" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Dao/mapping/UserVisite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="e#220#221#0" expanded="false" />
+            <element signature="e#248#249#0" expanded="false" />
+            <element signature="e#287#288#0" expanded="false" />
+            <element signature="e#321#322#0" expanded="false" />
+            <element signature="e#350#351#0" expanded="false" />
+            <element signature="e#377#378#0" expanded="false" />
+            <element signature="e#415#416#0" expanded="false" />
+            <element signature="e#447#448#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/appService.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/services/CustomerForm.java" />
-    <entry file="file://$PROJECT_DIR$/gradlew">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/example/WidgetSet.gwt.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/logs/widgetset-compile.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="89" lean-forward="false" selection-start-line="6" selection-start-column="89" selection-end-line="6" selection-end-column="89" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        <state relative-caret-position="495">
+          <caret line="33" column="14" lean-forward="false" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CustomerForm.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin.addon/vaadin-charts-model/3.2.0/880fb2104aea558d6fa8132188b066bc52f28da4/vaadin-charts-model-3.2.0-sources.jar!/com/vaadin/addon/charts/model/PlotOptionsSeries.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CustomerFormDesign.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        <state relative-caret-position="330">
+          <caret line="26" column="38" lean-forward="false" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#348#349#0" expanded="false" />
-            <element signature="e#381#382#0" expanded="false" />
+            <element signature="e#2118#2119#0" expanded="false" />
+            <element signature="e#2148#2149#0" expanded="false" />
+            <element signature="e#2348#2349#0" expanded="false" />
+            <element signature="e#2395#2396#0" expanded="false" />
+            <element signature="e#2471#2472#0" expanded="false" />
+            <element signature="e#2494#2495#0" expanded="false" />
+            <element signature="e#3519#3520#0" expanded="false" />
+            <element signature="e#3552#3553#0" expanded="false" />
+            <element signature="e#3636#3637#0" expanded="false" />
+            <element signature="e#3664#3665#0" expanded="false" />
+            <element signature="e#4084#4085#0" expanded="false" />
+            <element signature="e#4127#4128#0" expanded="false" />
+            <element signature="e#4191#4192#0" expanded="false" />
+            <element signature="e#4210#4211#0" expanded="false" />
+            <element signature="e#4550#4551#0" expanded="false" />
+            <element signature="e#4575#4576#0" expanded="false" />
+            <element signature="e#4655#4656#0" expanded="false" />
+            <element signature="e#4680#4681#0" expanded="false" />
+            <element signature="e#4870#4871#0" expanded="false" />
+            <element signature="e#4907#4908#0" expanded="false" />
+            <element signature="e#4989#4990#0" expanded="false" />
+            <element signature="e#5015#5016#0" expanded="false" />
+            <element signature="e#5166#5167#0" expanded="false" />
+            <element signature="e#5205#5206#0" expanded="false" />
+            <element signature="e#5287#5288#0" expanded="false" />
+            <element signature="e#5314#5315#0" expanded="false" />
+            <element signature="e#5969#5970#0" expanded="false" />
+            <element signature="e#6010#6011#0" expanded="false" />
+            <element signature="e#6078#6079#0" expanded="false" />
+            <element signature="e#6098#6099#0" expanded="false" />
+            <element signature="e#6310#6311#0" expanded="false" />
+            <element signature="e#6337#6338#0" expanded="false" />
+            <element signature="e#6417#6418#0" expanded="false" />
+            <element signature="e#6440#6441#0" expanded="false" />
+            <element signature="e#7087#7088#0" expanded="false" />
+            <element signature="e#7120#7121#0" expanded="false" />
+            <element signature="e#7347#7348#0" expanded="false" />
+            <element signature="e#7382#7383#0" expanded="false" />
+            <element signature="e#7478#7479#0" expanded="false" />
+            <element signature="e#7511#7512#0" expanded="false" />
+            <element signature="e#7803#7804#0" expanded="false" />
+            <element signature="e#7856#7857#0" expanded="false" />
+            <element signature="e#7950#7951#0" expanded="false" />
+            <element signature="e#7982#7983#0" expanded="false" />
+            <element signature="e#8314#8315#0" expanded="false" />
+            <element signature="e#8365#8366#0" expanded="false" />
+            <element signature="e#8791#8792#0" expanded="false" />
+            <element signature="e#8852#8853#0" expanded="false" />
+            <element signature="e#9267#9268#0" expanded="false" />
+            <element signature="e#9295#9296#0" expanded="false" />
+            <element signature="e#9369#9370#0" expanded="false" />
+            <element signature="e#9392#9393#0" expanded="false" />
+            <element signature="e#9510#9511#0" expanded="false" />
+            <element signature="e#9543#9544#0" expanded="false" />
+            <element signature="e#9613#9614#0" expanded="false" />
+            <element signature="e#9634#9635#0" expanded="false" />
+            <element signature="e#9783#9784#0" expanded="false" />
+            <element signature="e#9812#9813#0" expanded="false" />
+            <element signature="e#9884#9885#0" expanded="false" />
+            <element signature="e#9906#9907#0" expanded="false" />
+            <element signature="e#10248#10249#0" expanded="false" />
+            <element signature="e#10279#10280#0" expanded="false" />
+            <element signature="e#10462#10463#0" expanded="false" />
+            <element signature="e#10489#10490#0" expanded="false" />
+            <element signature="e#10569#10570#0" expanded="false" />
+            <element signature="e#10596#10597#0" expanded="false" />
+            <element signature="e#10819#10820#0" expanded="false" />
+            <element signature="e#10860#10861#0" expanded="false" />
+            <element signature="e#10942#10943#0" expanded="false" />
+            <element signature="e#10969#10970#0" expanded="false" />
+            <element signature="e#11430#11431#0" expanded="false" />
+            <element signature="e#11471#11472#0" expanded="false" />
+            <element signature="e#11573#11574#0" expanded="false" />
+            <element signature="e#11604#11605#0" expanded="false" />
+            <element signature="e#12145#12146#0" expanded="false" />
+            <element signature="e#12194#12195#0" expanded="false" />
+            <element signature="e#12294#12295#0" expanded="false" />
+            <element signature="e#12322#12323#0" expanded="false" />
+            <element signature="e#13569#13570#0" expanded="false" />
+            <element signature="e#13612#13613#0" expanded="false" />
+            <element signature="e#13688#13689#0" expanded="false" />
+            <element signature="e#13712#13713#0" expanded="false" />
+            <element signature="e#14001#14002#0" expanded="false" />
+            <element signature="e#14036#14037#0" expanded="false" />
+            <element signature="e#14110#14111#0" expanded="false" />
+            <element signature="e#14132#14133#0" expanded="false" />
+            <element signature="e#14385#14386#0" expanded="false" />
+            <element signature="e#14416#14417#0" expanded="false" />
+            <element signature="e#14486#14487#0" expanded="false" />
+            <element signature="e#14506#14507#0" expanded="false" />
+            <element signature="e#14827#14828#0" expanded="false" />
+            <element signature="e#14854#14855#0" expanded="false" />
+            <element signature="e#14936#14937#0" expanded="false" />
+            <element signature="e#14962#14963#0" expanded="false" />
+            <element signature="e#15234#15235#0" expanded="false" />
+            <element signature="e#15273#15274#0" expanded="false" />
+            <element signature="e#15355#15356#0" expanded="false" />
+            <element signature="e#15381#15382#0" expanded="false" />
+            <element signature="e#15659#15660#0" expanded="false" />
+            <element signature="e#15698#15699#0" expanded="false" />
+            <element signature="e#15782#15783#0" expanded="false" />
+            <element signature="e#15809#15810#0" expanded="false" />
+            <element signature="e#16418#16419#0" expanded="false" />
+            <element signature="e#16459#16460#0" expanded="false" />
+            <element signature="e#16535#16536#0" expanded="false" />
+            <element signature="e#16557#16558#0" expanded="false" />
+            <element signature="e#16765#16766#0" expanded="false" />
+            <element signature="e#16796#16797#0" expanded="false" />
+            <element signature="e#17057#17058#0" expanded="false" />
+            <element signature="e#17084#17085#0" expanded="false" />
+            <element signature="e#17152#17153#0" expanded="false" />
+            <element signature="e#17170#17171#0" expanded="false" />
+            <element signature="e#17436#17437#0" expanded="false" />
+            <element signature="e#17459#17460#0" expanded="false" />
+            <element signature="e#17545#17546#0" expanded="false" />
+            <element signature="e#17573#17574#0" expanded="false" />
+            <element signature="e#18280#18281#0" expanded="false" />
+            <element signature="e#18323#18324#0" expanded="false" />
+            <element signature="e#18397#18398#0" expanded="false" />
+            <element signature="e#18420#18421#0" expanded="false" />
+            <element signature="e#18691#18692#0" expanded="false" />
+            <element signature="e#18724#18725#0" expanded="false" />
+            <element signature="e#19166#19167#0" expanded="false" />
+            <element signature="e#19195#19196#0" expanded="false" />
+            <element signature="e#19279#19280#0" expanded="false" />
+            <element signature="e#19307#19308#0" expanded="false" />
+            <element signature="e#19769#19770#0" expanded="false" />
+            <element signature="e#19812#19813#0" expanded="false" />
+            <element signature="e#19884#19885#0" expanded="false" />
+            <element signature="e#19905#19906#0" expanded="false" />
+            <element signature="e#20035#20036#0" expanded="false" />
+            <element signature="e#20064#20065#0" expanded="false" />
+            <element signature="e#20136#20137#0" expanded="false" />
+            <element signature="e#20158#20159#0" expanded="false" />
+            <element signature="e#20293#20294#0" expanded="false" />
+            <element signature="e#20324#20325#0" expanded="false" />
+            <element signature="e#20742#20743#0" expanded="false" />
+            <element signature="e#20804#20805#0" expanded="false" />
+            <element signature="e#21230#21231#0" expanded="false" />
+            <element signature="e#21260#21261#0" expanded="false" />
+            <element signature="e#21332#21333#0" expanded="false" />
+            <element signature="e#21353#21354#0" expanded="false" />
+            <element signature="e#21826#21827#0" expanded="false" />
+            <element signature="e#21855#21856#0" expanded="false" />
+            <element signature="e#22634#22635#0" expanded="false" />
+            <element signature="e#22673#22674#0" expanded="false" />
+            <element signature="e#22743#22744#0" expanded="false" />
+            <element signature="e#22764#22765#0" expanded="false" />
+            <element signature="e#23287#23288#0" expanded="false" />
+            <element signature="e#23316#23317#0" expanded="false" />
+            <element signature="e#23394#23395#0" expanded="false" />
+            <element signature="e#23419#23420#0" expanded="false" />
+            <element signature="e#23565#23566#0" expanded="false" />
+            <element signature="e#23602#23603#0" expanded="false" />
+            <element signature="e#23678#23679#0" expanded="false" />
+            <element signature="e#23702#23703#0" expanded="false" />
+            <element signature="e#24065#24066#0" expanded="false" />
+            <element signature="e#24100#24101#0" expanded="false" />
+            <element signature="e#24183#24184#0" expanded="false" />
+            <element signature="e#24233#24234#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CustomerService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/WidgetSetGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        <state relative-caret-position="60">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ec6a439f-9c12-4915-a44e-f1e06af37cae/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MyUI.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/userDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="129" column="1" lean-forward="false" selection-start-line="129" selection-start-column="1" selection-end-line="129" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/VaadintestUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="14" column="60" lean-forward="false" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+          <caret line="112" column="0" lean-forward="false" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -2191,11 +3030,11 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>Gradle : com.test : helloworld-1.0-SNAPSHOT.war</last-edited>
+          <last-edited>Gradle : com.test : helloworld-1.0-SNAPSHOT.war (exploded)</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.31662437" />
                 <option value="0.5" />
               </list>
             </option>
@@ -2204,11 +3043,11 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Web Gradle : helloworld-1.0-SNAPSHOT.war (helloworld_main)|Web</last-edited>
+          <last-edited>GWT (helloworld_test)|GWT</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.31662437" />
               </list>
             </option>
           </splitter-proportions>
@@ -2219,7 +3058,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.31662437" />
               </list>
             </option>
           </splitter-proportions>
@@ -2231,7 +3070,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.31662437" />
               </list>
             </option>
           </splitter-proportions>
@@ -2239,11 +3078,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Web Gradle : helloworld-1.0-SNAPSHOT.war|helloworld_main|helloworld</last-edited>
+          <last-edited>helloworld_main|helloworld</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.31662437" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -2255,7 +3095,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.31662437" />
               </list>
             </option>
           </splitter-proportions>
